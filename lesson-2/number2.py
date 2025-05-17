@@ -1,0 +1,7 @@
+x = int(input("Enter a  number:"))
+y = int(input("Enter a  number:"))
+z = int(input("Enter a  number:"))
+largest = max(x,y,z)
+smallest = min(x,y,z)
+print("Largest number:",  largest)
+print("Smallest number:", smallest)
