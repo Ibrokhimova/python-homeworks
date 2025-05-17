@@ -1,5 +1,0 @@
-word = input("Enter a list of word:")
-words = word.split()
-seperator = input("e.g. , - or ,:")
-join_string = seperator.join(words)
-print("Joined string:", join_string)
